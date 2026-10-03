@@ -1,0 +1,20 @@
+Virtual Computer Control - Windows portable app
+
+1. Extract the entire ZIP into a folder you can write to, such as Documents.
+2. Open VirtualComputerControl.exe. Python installation is not required.
+3. For Jarvis AI, go to Settings > AI Assistant, enter your own Gemini API key,
+   and click Save & Apply All. The key is saved locally for future launches.
+   AI replies require internet access. Gesture control does not require an API key.
+4. Open Calibration, click Start Camera, and hold your index finger steady.
+   Capture your comfortable top-left and bottom-right positions, test the blue
+   marker, then click Save & Apply.
+5. Return to Overview and enable Computer Control to use hand gestures.
+   Point to move; pinch and release to click; hold a pinch to drag.
+   Press Esc to stop computer control.
+
+This package includes only the executable and these instructions. It contains
+no saved API key, personal database, activity logs, or custom calibration.
+The app creates a local virtual_control.db file when first used. Keep that file
+private because it stores your settings, including your entered API key.
+
+For sharing, send this original ZIP rather than your folder after using the app.
