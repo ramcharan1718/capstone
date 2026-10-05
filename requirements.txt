@@ -1,0 +1,8 @@
+opencv-python==4.11.0.86
+mediapipe==0.10.33
+pyautogui==0.9.54
+Pillow>=10.0
+SpeechRecognition==3.13.0
+PyAudio==0.2.14
+numpy>=1.26
+yt-dlp>=2026.9.26

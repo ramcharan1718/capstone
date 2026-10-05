@@ -1,0 +1,2 @@
+This project is provided for educational and academic project use.
+Third-party packages remain under their respective licenses.
